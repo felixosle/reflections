@@ -1,1 +1,2 @@
 Vale, lo he tenido que recrear todo porque lo cree con el root.
+Ahora añado una línea para ver el Staging Area
